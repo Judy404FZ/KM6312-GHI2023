@@ -24,16 +24,16 @@
 - Neural Network<br>
 - Vote Weighting<br>
 ## Folder and Files descriptions<br>
-data
-└───raw_data    : KM6312_Original
-│   │   ...
-└───prepocessed_data  : KM6312_Output
-│   │   ...
-code
-│   1. KM6312_CYX_Deletion Processing.ipynb
-|   2. KM6312_FSY_Text Digitization.ipynb
-|   3. KM6312_TJ_Data Normalization.ipynb
-|   4. KM6312_FZ_Data Visualization.ipynb
-|   5. KM6312_PY_Model.ipynb
-└───└───
+data<br>
+└───raw_data    : KM6312_Original<br>
+│   │   ...<br>
+└───prepocessed_data  : KM6312_Output<br>
+│   │   ...<br>
+code<br>
+│   1. KM6312_CYX_Deletion Processing.ipynb<br>
+|   2. KM6312_FSY_Text Digitization.ipynb<br>
+|   3. KM6312_TJ_Data Normalization.ipynb<br>
+|   4. KM6312_FZ_Data Visualization.ipynb<br>
+|   5. KM6312_PY_Model.ipynb<br>
+└───└───<br>
 README.md
