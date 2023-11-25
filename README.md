@@ -6,8 +6,8 @@
 · Data Normalization<br>
 ### **Ⅱ. Data Visualization**<br>
 ### **Ⅲ. Model Building**<br>
-> Happiness Score Prediction <<br>
-· Linear Regression<br>
+#### Happiness Score Prediction<br>
+- Linear Regression<br>
 · Lasso<br>
 · Decision Tree<br>
 · Random Forest<br>
