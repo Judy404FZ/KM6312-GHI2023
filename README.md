@@ -1,12 +1,12 @@
 # KM6312-GHI2023
 ## **Research Factors Shaping the Global Happiness Index**<br>
 ### **Ⅰ. Data Preprocessing**<br>
-· Deletion processing<br>
-· Text digitization<br>
-· Data Normalization<br>
+- Deletion processing<br>
+- Text digitization<br>
+- Data Normalization<br>
 ### **Ⅱ. Data Visualization**<br>
 ### **Ⅲ. Model Building**<br>
-'Happiness Score Prediction'<br>
+#### Happiness Score Prediction<br>
 - Linear Regression<br>
 - Lasso<br>
 - Decision Tree<br>
@@ -23,3 +23,17 @@
 - KNN<br>
 - Neural Network<br>
 - Vote Weighting<br>
+## Folder and Files descriptions<br>
+data
+└───raw_data    : KM6312_Original
+│   │   ...
+└───prepocessed_data  : KM6312_Output
+│   │   ...
+code
+│   1. KM6312_CYX_Deletion Processing.ipynb
+|   2. KM6312_FSY_Text Digitization.ipynb
+|   3. KM6312_TJ_Data Normalization.ipynb
+|   4. KM6312_FZ_Data Visualization.ipynb
+|   5. KM6312_PY_Model.ipynb
+└───└───
+README.md
