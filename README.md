@@ -6,20 +6,22 @@
 · Data Normalization<br>
 ### **Ⅱ. Data Visualization**<br>
 ### **Ⅲ. Model Building**<br>
-#### Happiness Score Prediction<br>
+'''sh
+Happiness Score Prediction
+'''<br>
 - Linear Regression<br>
-· Lasso<br>
-· Decision Tree<br>
-· Random Forest<br>
-· Support Vector Machine<br>
-· K-nearest<br>
-· Neuron Network<br>
-· Ensemble Learning<br>
+- Lasso<br>
+- Decision Tree<br>
+- Random Forest<br>
+- Support Vector Machine<br>
+- K-nearest<br>
+- Neuron Network<br>
+- Ensemble Learning<br>
 #### Development Level Predicton<br>
-· Logistic Regression<br>
-· Decision Tree<br>
-· Random Forest<br>
-· SVC<br>
-· KNN<br>
-· Neural Network<br>
-· Vote Weighting<br>
+- Logistic Regression<br>
+- Decision Tree<br>
+- Random Forest<br>
+- SVC<br>
+- KNN<br>
+- Neural Network<br>
+- Vote Weighting<br>
